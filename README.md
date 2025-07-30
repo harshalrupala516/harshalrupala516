@@ -26,12 +26,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Mailchimp_Logo_2018.svg" width="30" title="Mailchimp" />
-  <img src="https://static.cdnlogo.com/logos/g/48/google-analytics.svg" width="30" title="Google Analytics" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-meta-4562831-3788025.png?f=webp&w=256" width="30" title="Meta Ads Manager" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-ads-9291919-7564552.png?f=webp&w=256" width="30" title="LinkedIn Ads" />
-  <img src="https://seeklogo.com/images/H/hubspot-logo-F4B820BF0B-seeklogo.com.png" width="30" title="HubSpot CRM" />
-  <img src="https://www.vectorlogo.zone/logos/semrush/semrush-icon.svg" width="30" title="SEMRush" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30" title="Canva" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968515.png" width="30" title="Notion" />
   <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="30" title="Trello" />
