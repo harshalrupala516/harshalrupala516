@@ -1,37 +1,53 @@
 <p align="center">
-  <img src="https://github.com/ShubhamGajera/ShubhamGajera/blob/main/assets/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Animated Header" width="100%" />
+  <img src="https://github.com/ShubhamGajera/ShubhamGajera/blob/main/assets/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Cybersecurity Header" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshal+Rupala!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshal+Rupala!;+Cybersecurity+Enthusiast+🔐;+Ethical+Hacker+in+Progress+💻" />
 </h1>
 
-<h3 align="center">📈 Digital Marketing Strategist | Business Development Associate | Growth Enthusiast</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | Ethical Hacking Learner | Future Security Analyst</h3>
 
 ---
 
-### 👨‍💼 About Me
+### 🧑‍💻 About Me
 
-- 🎓 **B.Tech in Computer Engineering** from *RK University, Gujarat*
-- 💼 Currently working as a **Digital Marketing & Business Development Intern**
-- 📊 Experienced in **Lead Generation**, **Email Marketing**, **Paid Ads**, and **Campaign Strategy**
-- 🚀 Skilled in using modern marketing tools to drive brand awareness and B2B engagement
-- 🌐 Exploring **SEO**, **Social Media Optimization**, and **Performance Marketing**
+- 🎓 **B.Tech in Computer Engineering**
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 🛡️ Learning **Network Security, Web Security & Vulnerability Assessment**
+- 💻 Exploring tools like **Kali Linux, Burp Suite, Nmap, Wireshark**
+- 🧠 Currently building skills in:
+  - Penetration Testing  
+  - Vulnerability Analysis  
+  - OSINT & Reconnaissance  
+- 🚀 Goal: Become a **Cybersecurity Analyst / Ethical Hacker**
 - 📫 Reach me at: **harshalrupala516@gmail.com**
 
 ---
 
-### 🧰 Tools & Platforms I Use
+### 🛠️ Cybersecurity Tools & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30" title="Canva" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968515.png" width="30" title="Notion" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="30" title="Trello" />
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="30" title="Google Ads" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-google-tag-manager-3521534-2945093.png?f=webp&w=256" width="30" title="Google Tag Manager" />
+  <img src="https://img.icons8.com/color/48/linux.png" width="40" title="Linux" />
+  <img src="https://img.icons8.com/fluency/48/hacker.png" width="40" title="Ethical Hacking" />
+  <img src="https://img.icons8.com/color/48/network.png" width="40" title="Networking" />
+  <img src="https://img.icons8.com/color/48/security-checked.png" width="40" title="Security" />
+  <img src="https://img.icons8.com/color/48/python.png" width="40" title="Python" />
+  <img src="https://img.icons8.com/color/48/console.png" width="40" title="Terminal" />
 </p>
+
+---
+
+### 🔥 Current Focus
+
+- 📚 Learning **Web Application Security (OWASP Top 10)**
+- 🧪 Practicing on platforms like:
+  - TryHackMe  
+  - Hack The Box  
+- 🛠️ Building mini projects:
+  - 🔍 Port Scanner (Python)  
+  - 🌐 Website Vulnerability Scanner  
+  - 🔐 Password Strength Checker  
 
 ---
 
@@ -39,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshalrupala516&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=harshalrupala516&theme=matrix&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -48,11 +64,24 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=harshalrupala516&show_icons=true&theme=react&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalrupala516&layout=compact&theme=react" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=harshalrupala516&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalrupala516&layout=compact&theme=tokyonight" />
   <br />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=harshalrupala516&theme=react" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=harshalrupala516&theme=tokyonight" />
 </div>
+
+---
+
+### 🧠 Learning Journey
+
+- 🔰 Beginner → Intermediate in Cybersecurity
+- 📖 Currently studying:
+  - Networking Fundamentals  
+  - Linux Commands  
+  - Web Security Basics  
+- 🎯 Next Targets:
+  - CEH (Certified Ethical Hacker)  
+  - OSCP (Long-term goal)
 
 ---
 
@@ -63,5 +92,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshalrupala516/harshalrupala516/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/harshalrupala516/harshalrupala516/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### ⚡ Fun Fact
+
+> "Security is not a product, it's a process." 🔐
 
 <!-- Harshal Rupala -->
